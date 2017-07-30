@@ -1,0 +1,3 @@
+m = input("Quantas vezes quer que eu imprima 'Hello Children' " )
+for i in range(1,m+1):
+    print("Hello Children numero %s"%i)
